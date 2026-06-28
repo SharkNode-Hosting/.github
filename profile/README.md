@@ -1,25 +1,25 @@
 # 🚀 SharkNode Hosting
 
-**Modern játék- és alkalmazáshoszting mindenkinek.**
+**Megbízható szerverek kedvező áron.**
 
-Gyors, megbízható és folyamatosan fejlődő infrastruktúrát biztosítunk játékosoknak, fejlesztőknek és közösségeknek.
+A SharkNode gyors, megbízható és folyamatosan fejlődő infrastruktúrát biztosít játékosoknak, fejlesztőknek és közösségeknek.
 
-## 🎮 Jelenlegi szolgáltatásaink
+## 🎮 Jelenlegi szolgáltatások
 
-* Minecraft szerver hoszting
-* Node.js hoszting
-* Python hoszting
+* Minecraft hosting
+* Node.js hosting
+* Python hosting
 
 ## 🔜 Hamarosan
 
 Folyamatosan bővítjük kínálatunkat, többek között:
 
-* 🌐 Webhoszting
+* 🌐 Webhosting
 * ☁️ VPS szerverek
 * 💾 Tárhelyszolgáltatás
-* 🎮 További játékszerverek (pl. CS2, Hytale és még sok más)
+* 🎮 További játékszerverek
 
-## ⚡ Miért minket?
+## ⚡ Miért a SharkNode?
 
 * Nagy teljesítményű hardver
 * NVMe SSD tárhely
@@ -30,6 +30,6 @@ Folyamatosan bővítjük kínálatunkat, többek között:
 
 ---
 
-Ez a GitHub szervezet a hosztingunkhoz kapcsolódó nyílt forráskódú projekteknek, eszközöknek és fejlesztéseknek ad otthont.
+Ez a github org a hostinghoz kapcsolódó projekteknek, eszközöknek és fejlesztéseknek ad otthont.
 
-Köszönjük, hogy benéztél! ❤️
+köszönjük ha adsz pénzt ❤️
