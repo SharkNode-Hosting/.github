@@ -14,10 +14,10 @@ A SharkNode gyors, megbízható és folyamatosan fejlődő infrastruktúrát biz
 
 Folyamatosan bővítjük kínálatunkat, többek között:
 
-* 🌐 Webhosting
-* ☁️ VPS szerverek
-* 💾 Tárhelyszolgáltatás
-* 🎮 További játékszerverek
+* Webhosting
+* VPS szerverek
+* Tárhelyszolgáltatás
+* További játékszerverek
 
 ## ⚡ Miért a SharkNode?
 
@@ -30,6 +30,6 @@ Folyamatosan bővítjük kínálatunkat, többek között:
 
 ---
 
-Ez a github org a hostinghoz kapcsolódó projekteknek, eszközöknek és fejlesztéseknek ad otthont.
+Ez a github org a hostinghoz kapcsolódó projekteknek és fejlesztéseknek ad otthont.
 
 köszönjük ha adsz pénzt ❤️
