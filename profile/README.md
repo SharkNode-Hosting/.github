@@ -31,5 +31,3 @@ Folyamatosan bővítjük kínálatunkat, többek között:
 ---
 
 Ez a github org a hostinghoz kapcsolódó projekteknek és fejlesztéseknek ad otthont.
-
-köszönjük ha adsz pénzt ❤️
