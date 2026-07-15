@@ -1,10 +1,10 @@
-# 🚀 SharkNode Hosting
+# SharkNode Hosting
 
 **Megbízható szerverek kedvező áron.**
 
 A SharkNode gyors, megbízható és folyamatosan fejlődő infrastruktúrát biztosít játékosoknak, fejlesztőknek és közösségeknek.
 
-## 🎮 Jelenlegi szolgáltatások
+## Jelenlegi szolgáltatások
 
 * Minecraft hosting
 * Hytale Hosting
