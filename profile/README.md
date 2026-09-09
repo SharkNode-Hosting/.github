@@ -10,3 +10,5 @@ A SharkNode gyors, megbízható és folyamatosan fejlődő infrastruktúrát biz
 * Hytale Hosting
 * Node.js hosting
 * Python hosting
+* CS2 hosting
+* VPS hosting
